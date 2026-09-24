@@ -2,9 +2,29 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["UHZ357MDL8.com.wipastudio.rolla"],
+        "appIDs": [
+          "UHZ357MDL8.com.wipastudio.rolla"
+        ],
         "components": [
-          { "/": "/kadra/j/*", "comment": "Kadra room invite" }
+          {
+            "/": "/kadra/j/*",
+            "comment": "Kadra room invite"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "UHZ357MDL8.com.wipastudios.Emanet"
+        ],
+        "components": [
+          {
+            "/": "/emanet/d/*",
+            "comment": "Emanet davet — ?c=KOD ya da /KOD"
+          },
+          {
+            "/": "/emanet/o/*",
+            "comment": "Emanet uygulama içi yer (ask, settings, subscribe, …)"
+          }
         ]
       }
     ]

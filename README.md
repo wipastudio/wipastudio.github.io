@@ -9,3 +9,7 @@ Kadra room in the app. The page itself lives in the `kadra` repo.
 
 The file must be served as-is, with no extension and no Jekyll
 processing — hence `.nojekyll`.
+
+Universal links: `https://wipastudio.github.io/emanet/d/?c=<CODE>` (invite) and
+`https://wipastudio.github.io/emanet/o/<route>` open Emanet. The pages live in
+the `emanet` repo.
